@@ -1,0 +1,2 @@
+# No external dependencies required for basic proxy
+# Python standard library only (socket, threading, urllib)
